@@ -1,7 +1,7 @@
-name: Countdown
+name: EasyCountdown
 version: 0.1
 author: f3rd
-main: de.f3rd.countdown.Countdown
+main: de.f3rd.easycountdown.EasyCountdown
 commands:
   countdown:
     description: /countdown seconds
