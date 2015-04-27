@@ -1,0 +1,7 @@
+name: Countdown
+version: 0.1
+author: f3rd
+main: de.f3rd.countdown.Countdown
+commands:
+  countdown:
+    description: /countdown seconds
